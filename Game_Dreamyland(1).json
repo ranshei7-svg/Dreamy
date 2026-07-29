@@ -11,7 +11,7 @@
   "cardRotation": "45",
   "cards": {
     "dataUrl": "https://raw.githubusercontent.com/ranshei7-svg/Dreamy/refs/heads/main/CardList.json",
-    "cardBack": "https://github.com/ranshei7-svg/Dreamy/blob/main/omer-elfassy-backcards-race.jpg?raw=true"
+    "cardBack": ""
   },
   "deckBuilding": {
     "mainFilters": [
@@ -32,21 +32,21 @@
         "info": "Mulligan",
         "startingHandSize": 7,
         "drawNewHand": false,
-        "putSelectionAtBottom": false,
-        "drawNewSelectedCards": true
+        "putSelectionAtBottom": true,
+        "drawNewSelectedCards": false
       },
       "newTurn": {
         "drawOnStart": false,
-        "sharedTurn": false,
+        "sharedTurn": true,
         "firstPlayerTokenName": "1rst",
-        "drawPerTurn": 1
+        "drawPerTurn": 0
       },
       "defaultNotes": "",
       "tokens": [],
       "countersStartingValues": [
         0
       ],
-      "hideFacedDownCards": false,
+      "hideFacedDownCards": true,
       "sections": {
         "customSections": [
           "Groupe",
@@ -235,11 +235,11 @@
             "title": "Groupe",
             "isHidden": "yes",
             "height": "MEDIUM",
-            "alignment": "CENTER",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
             "isHorizontalAllowed": false,
-            "displayedTitle": "Pile",
+            "displayedTitle": "",
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
