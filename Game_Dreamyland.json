@@ -1,15 +1,15 @@
 {
   "name": "Dreamyland",
-  "menuBackgroundImage": "https://drive.google.com/file/d/1caPety9X1-JKtodcTEH9rtKESnzhCvLm/view?usp=drive_link",
+  "menuBackgroundImage": "https://github.com/ranshei7-svg/Dreamy/blob/main/logo-tcg.png?raw=true",
   "defaultRessources": {
     "backgrounds": [],
     "decksUrl": ""
   },
-  "customHelp": "",
+  "customHelp": "Go",
   "cardRotation": 45,
   "cards": {
-    "dataUrl": "https://drive.google.com/file/d/1fSOHNO_qrEc2UizYTXqw2izLj5-1hYQC/view?usp=drive_link",
-    "cardBack": "https://drive.google.com/file/d/1jDV9QK98dKNqyeHxjsFpawfBv1XMQmLX/view?usp=drive_link"
+    "dataUrl": "https://raw.githubusercontent.com/ranshei7-svg/Dreamy/refs/heads/main/CardList.json",
+    "cardBack": "https://github.com/ranshei7-svg/Dreamy/blob/main/omer-elfassy-backcards-race.jpg?raw=true"
   },
   "deckBuilding": {
     "mainFilters": [
