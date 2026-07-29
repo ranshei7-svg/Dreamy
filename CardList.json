@@ -600,7 +600,7 @@
         "type": "Lieu",
         "cost": 0,
         "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/IMAGES_DREAMY_02/FDS1_178.jpg?raw=true",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "royaume des plaines",
@@ -619,7 +619,7 @@
         "isHorizontal": false
       }
     },
-    "name": "neil",
+    "name": "neil2",
     "type": "Groupe",
     "cost": "0"
   },
@@ -635,7 +635,7 @@
         "isHorizontal": false
       }
     },
-    "name": "charly",
+    "name": "charly1",
     "type": "Groupe",
     "cost": "0"
   },
@@ -908,6 +908,1142 @@
       }
     },
     "name": "j'ai froid",
+    "type": "Soutien",
+    "cost": 0
+  },
+  "003": {
+    "id": "003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_003.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "charly2",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "004": {
+    "id": "004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_004.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "charly3",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "005": {
+    "id": "005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_005.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "epony3",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "006": {
+    "id": "006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_006.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "epony4",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "007": {
+    "id": "007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_007.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "vulcain",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "008": {
+    "id": "009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_008.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "asmodheus",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "009": {
+    "id": "009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Kick",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_009.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "première flamme",
+    "type": "Kick",
+    "cost": 0
+  },
+  "010": {
+    "id": "010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Kick",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_010.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "piège incendiaire",
+    "type": "Kick",
+    "cost": 0
+  },
+  "011": {
+    "id": "011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Kick",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_011.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "boule de feu",
+    "type": "Kick",
+    "cost": 0
+  },
+  "012": {
+    "id": "012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Kick",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_012.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "libérer son potentiel",
+    "type": "Kick",
+    "cost": 0
+  },
+  "013": {
+    "id": "013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Soutien",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_013.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "bague de feu",
+    "type": "Soutien",
+    "cost": 0
+  },
+  "029": {
+    "id": "029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_029.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "jerzey1",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "030": {
+    "id": "030",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_030.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "neil1",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "031": {
+    "id": "031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_031.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "jerzey2",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "032": {
+    "id": "032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_032.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "inma",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "033": {
+    "id": "033",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_033.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "actarus",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "034": {
+    "id": "034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Kick",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_034.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "attaque foudraoyante",
+    "type": "Kick",
+    "cost": 0
+  },
+  "035": {
+    "id": "035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Kick",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_035.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "electro choc",
+    "type": "Kick",
+    "cost": 0
+  },
+  "036": {
+    "id": "036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Kick",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_036.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "réflexe instinctif",
+    "type": "Kick",
+    "cost": 0
+  },
+  "037": {
+    "id": "037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Soutien",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_037.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "impérial vega",
+    "type": "Soutien",
+    "cost": 0
+  },
+  "038": {
+    "id": "038",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Soutien",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_038.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "ingéniergie de city volt",
+    "type": "Soutien",
+    "cost": 0
+  },
+  "039": {
+    "id": "039",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_039.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "dieu chat noir",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "040": {
+    "id": "040",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_040.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "rafaelo",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "041": {
+    "id": "041",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_041.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "félix1",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "042": {
+    "id": "042",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_042.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "young infinity1",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "043": {
+    "id": "043",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_043.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "elvis",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "044": {
+    "id": "044",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_044.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "milan3",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "045": {
+    "id": "045",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_045.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "magoss3",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "046": {
+    "id": "046",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_046.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "jimmy2",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "047": {
+    "id": "047",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_047.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "jimmy3",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "048": {
+    "id": "048",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_048.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "saturn",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "049": {
+    "id": "049",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Kick",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_049.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "négociation féroce",
+    "type": "Kick",
+    "cost": 0
+  },
+  "050": {
+    "id": "050",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Kick",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_050.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "crocs saillants",
+    "type": "Kick",
+    "cost": 0
+  },
+  "051": {
+    "id": "051",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Kick",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_051.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "taillade",
+    "type": "Kick",
+    "cost": 0
+  },
+  "052": {
+    "id": "052",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Kick",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_052.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "couper court",
+    "type": "Kick",
+    "cost": 0
+  },
+  "053": {
+    "id": "053",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Soutien",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_053.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "fiesta féline",
+    "type": "Soutien",
+    "cost": 0
+  },
+  "054": {
+    "id": "054",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_054.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "titan métro",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "055": {
+    "id": "055",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_055.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "frères carnages",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "056": {
+    "id": "056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_056.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "roi fury",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "057": {
+    "id": "057",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Kick",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_057.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "attaque des titans",
+    "type": "Kick",
+    "cost": 0
+  },
+  "058": {
+    "id": "058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Kick",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_058.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "mandale titanesque",
+    "type": "Kick",
+    "cost": 0
+  },
+  "059": {
+    "id": "059",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Soutien",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_059.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "mur de force",
+    "type": "Soutien",
+    "cost": 0
+  },
+  "060": {
+    "id": "060",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Soutien",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_060.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "courage de taille",
+    "type": "Soutien",
+    "cost": 0
+  },
+  "061": {
+    "id": "061",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Soutien",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_061.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "sauvé in extremis",
+    "type": "Soutien",
+    "cost": 0
+  },
+  "062": {
+    "id": "062",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Soutien",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_062.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "survivre une nuit de plus",
+    "type": "Soutien",
+    "cost": 0
+  },
+  "063": {
+    "id": "063",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_063.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "naora1",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "064": {
+    "id": "064",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_064.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "naora2",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "065": {
+    "id": "065",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_065.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "shaka1",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "066": {
+    "id": "066",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_066.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "shaka3",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "067": {
+    "id": "067",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_067.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "flam2",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "068": {
+    "id": "068",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_068.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "flam3",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "069": {
+    "id": "069",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_069.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "lion2",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "070": {
+    "id": "070",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_070.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "lion4",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "071": {
+    "id": "071",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Kick",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_071.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "déviation sonique",
+    "type": "Kick",
+    "cost": 0
+  },
+  "072": {
+    "id": "072",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Kick",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_072.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "explosion de tympans",
+    "type": "Kick",
+    "cost": 0
+  },
+  "073": {
+    "id": "073",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Kick",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_073.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "virtuosité",
+    "type": "Kick",
+    "cost": 0
+  },
+  "074": {
+    "id": "074",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Kick",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_074.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "travail d'équipe",
+    "type": "Kick",
+    "cost": 0
+  },
+  "075": {
+    "id": "075",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Soutien",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_075.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "danse des kill stars",
+    "type": "Soutien",
+    "cost": 0
+  },
+  "076": {
+    "id": "076",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_076.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "céleste2",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "077": {
+    "id": "077",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_077.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "céleste3",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "078": {
+    "id": "078",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_078.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "isaak1",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "079": {
+    "id": "079",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_079.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "isaak2",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "080": {
+    "id": "080",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_080.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "gériko",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "081": {
+    "id": "081",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_081.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "gériko",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "082": {
+    "id": "082",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_082.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "maniac1",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "083": {
+    "id": "083",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Groupe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_083.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "maniac4",
+    "type": "Groupe",
+    "cost": 0
+  },
+  "084": {
+    "id": "084",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Kick",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_084.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "étalé en un coup",
+    "type": "Kick",
+    "cost": 0
+  },
+  "085": {
+    "id": "085",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Kick",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_085.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "plus de violence !",
+    "type": "Kick",
+    "cost": 0
+  },
+  "086": {
+    "id": "086",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Kick",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_086.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "fureur du dragon",
+    "type": "Kick",
+    "cost": 0
+  },
+  "087": {
+    "id": "087",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Kick",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_087.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "envie de sang",
+    "type": "Kick",
+    "cost": 0
+  },
+  "090": {
+    "id": "090",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Soutien",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_090.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "batte des titans",
     "type": "Soutien",
     "cost": 0
   }
