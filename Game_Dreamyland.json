@@ -2,7 +2,9 @@
   "name": "Dreamyland",
   "menuBackgroundImage": "https://github.com/ranshei7-svg/Dreamy/blob/main/logo-tcg.png?raw=true",
   "defaultRessources": {
-    "backgrounds": [],
+    "backgrounds": [
+      "https://github.com/ranshei7-svg/Dreamy/blob/main/arakdo.png?raw=true"
+    ],
     "decksUrl": ""
   },
   "customHelp": "Go",
@@ -19,7 +21,7 @@
     "formats": [
       {
         "title": "Classic",
-        "gameplay": "CLassic",
+        "gameplay": "Classic",
         "customCategories": []
       }
     ]
