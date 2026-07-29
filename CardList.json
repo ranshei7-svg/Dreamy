@@ -5,7 +5,7 @@
     "face": {
       "front": {
         "name": "",
-        "type": false,
+        "type": "Lieu",
         "cost": 0,
         "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/IMAGES_DREAMY_02/FDS1_178.jpg?raw=true",
         "isHorizontal": true
@@ -21,15 +21,15 @@
     "face": {
       "front": {
         "name": "",
-        "type": "false",
+        "type": "Groupe",
         "cost": "0",
         "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_001.jpg?raw=true",
         "isHorizontal": false
       }
     },
     "name": "neil",
-    "type": "Perso",
-    "cost": "2"
+    "type": "Groupe",
+    "cost": "0"
   },
   "002": {
     "id": "002",
@@ -37,14 +37,46 @@
     "face": {
       "front": {
         "name": "",
-        "type": "false",
+        "type": "Groupe",
         "cost": "0",
         "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_002.jpg?raw=true",
         "isHorizontal": false
       }
     },
     "name": "charly",
-    "type": "Perso",
-    "cost": "1"
+    "type": "Groupe",
+    "cost": "0"
+  },
+  "088": {
+    "id": "088",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Songe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_088.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "patate cataclysmique",
+    "type": "Songe",
+    "cost": 0
+  },
+  "089": {
+    "id": "089",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Songe",
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_089.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "puissance des indomptables",
+    "type": "Songe",
+    "cost": 0
   }
 }
