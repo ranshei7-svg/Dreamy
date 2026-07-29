@@ -1,0 +1,50 @@
+{
+  "178": {
+    "id": "178",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/IMAGES_DREAMY_02/FDS1_178.jpg?raw=true",
+        "isHorizontal": true
+      }
+    },
+    "name": "royaume des plaines",
+    "type": "Lieu",
+    "cost": 0
+  },
+  "001": {
+    "id": "001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "false",
+        "cost": "0",
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_001.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "neil",
+    "type": "Perso",
+    "cost": "2"
+  },
+  "002": {
+    "id": "002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "false",
+        "cost": "0",
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_002.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "charly",
+    "type": "Perso",
+    "cost": "1"
+  }
+}
