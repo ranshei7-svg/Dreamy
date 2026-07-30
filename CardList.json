@@ -1275,7 +1275,7 @@
         "isHorizontal": false
       }
     },
-    "name": "vulcain",
+    "name": "vulcainalt",
     "type": "Groupe",
     "cost": 0
   },
@@ -1291,7 +1291,7 @@
         "isHorizontal": false
       }
     },
-    "name": "asmodheus",
+    "name": "asmodheusalt",
     "type": "Groupe",
     "cost": 0
   },
@@ -1307,7 +1307,7 @@
         "isHorizontal": false
       }
     },
-    "name": "locki2",
+    "name": "locki2alt",
     "type": "Groupe",
     "cost": 0
   },
@@ -1323,7 +1323,7 @@
         "isHorizontal": false
       }
     },
-    "name": "shun3",
+    "name": "shun3alt",
     "type": "Groupe",
     "cost": 0
   },
@@ -1339,7 +1339,7 @@
         "isHorizontal": false
       }
     },
-    "name": "prévice",
+    "name": "prévicealt",
     "type": "Groupe",
     "cost": 0
   },
@@ -1355,7 +1355,7 @@
         "isHorizontal": false
       }
     },
-    "name": "jerzey2",
+    "name": "jerzey2alt",
     "type": "Groupe",
     "cost": 0
   },
@@ -1371,7 +1371,7 @@
         "isHorizontal": false
       }
     },
-    "name": "actarus",
+    "name": "actarusalt",
     "type": "Groupe",
     "cost": 0
   },
@@ -1387,7 +1387,7 @@
         "isHorizontal": false
       }
     },
-    "name": "jimmy3",
+    "name": "jimmy3alt",
     "type": "Groupe",
     "cost": 0
   },
@@ -1403,7 +1403,7 @@
         "isHorizontal": false
       }
     },
-    "name": "saturn",
+    "name": "saturnalt",
     "type": "Groupe",
     "cost": 0
   },
@@ -1419,7 +1419,7 @@
         "isHorizontal": false
       }
     },
-    "name": "terrence3",
+    "name": "terrence3alt",
     "type": "Groupe",
     "cost": 0
   },
@@ -1435,7 +1435,7 @@
         "isHorizontal": false
       }
     },
-    "name": "savane3",
+    "name": "savane3alt",
     "type": "Groupe",
     "cost": 0
   },
@@ -1451,7 +1451,7 @@
         "isHorizontal": false
       }
     },
-    "name": "ève3",
+    "name": "ève3alt",
     "type": "Groupe",
     "cost": 0
   },
@@ -1467,7 +1467,7 @@
         "isHorizontal": false
       }
     },
-    "name": "sabba",
+    "name": "sabbaalt",
     "type": "Groupe",
     "cost": 0
   },
@@ -1483,7 +1483,7 @@
         "isHorizontal": false
       }
     },
-    "name": "attila",
+    "name": "attilaalt",
     "type": "Groupe",
     "cost": 0
   },
@@ -1499,7 +1499,7 @@
         "isHorizontal": false
       }
     },
-    "name": "lion",
+    "name": "lionalt",
     "type": "Groupe",
     "cost": 0
   },
@@ -1515,7 +1515,7 @@
         "isHorizontal": false
       }
     },
-    "name": "gériko3",
+    "name": "gériko3altalt",
     "type": "Groupe",
     "cost": 0
   },
@@ -1531,7 +1531,7 @@
         "isHorizontal": false
       }
     },
-    "name": "maniac4",
+    "name": "maniac4alt",
     "type": "Groupe",
     "cost": 0
   },
@@ -1547,7 +1547,7 @@
         "isHorizontal": false
       }
     },
-    "name": "sealvia3",
+    "name": "sealvia3alt",
     "type": "Groupe",
     "cost": 0
   },
@@ -1563,7 +1563,7 @@
         "isHorizontal": false
       }
     },
-    "name": "sacha",
+    "name": "sachaalt",
     "type": "Groupe",
     "cost": 0
   },
@@ -1579,7 +1579,7 @@
         "isHorizontal": false
       }
     },
-    "name": "arka",
+    "name": "arkaalt",
     "type": "Groupe",
     "cost": 0
   },
@@ -1595,7 +1595,7 @@
         "isHorizontal": false
       }
     },
-    "name": "toro picana",
+    "name": "toro picanaalt",
     "type": "Groupe",
     "cost": 0
   },
@@ -1611,7 +1611,7 @@
         "isHorizontal": false
       }
     },
-    "name": "dolche",
+    "name": "dolchealt",
     "type": "Groupe",
     "cost": 0
   },
@@ -2907,7 +2907,7 @@
         "isHorizontal": false
       }
     },
-    "name": "gériko",
+    "name": "gériko2",
     "type": "Groupe",
     "cost": 0
   },
@@ -2923,7 +2923,7 @@
         "isHorizontal": false
       }
     },
-    "name": "gériko",
+    "name": "gériko3",
     "type": "Groupe",
     "cost": 0
   },
