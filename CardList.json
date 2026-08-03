@@ -1983,21 +1983,21 @@
     "type": "Groupe",
     "cost": 0
   },
-  "008": {
+  "0080": {
     "id": "009",
     "isToken": false,
     "face": {
       "front": {
         "name": "",
         "type": "Groupe",
-        "cost": 0,
+        "cost": "5",
         "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_008.jpg?raw=true",
         "isHorizontal": false
       }
     },
     "name": "asmodheus",
     "type": "Groupe",
-    "cost": 0
+    "cost": "5"
   },
   "009": {
     "id": "009",
