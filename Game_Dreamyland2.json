@@ -53,8 +53,8 @@
         "customSections": [
           "Groupe",
           "Lieu",
-          "L'arène",
-          "La réserve",
+          "Arène",
+          "Réserve",
           "Combattant",
           "Soutien"
         ],
@@ -67,7 +67,7 @@
               "style": false,
               "content": [
                 {
-                  "section": "L'arène",
+                  "section": "Arène",
                   "style": false
                 },
                 {
@@ -90,7 +90,7 @@
                   "style": false
                 },
                 {
-                  "section": "La réserve",
+                  "section": "Réserve",
                   "style": false
                 },
                 {
@@ -107,7 +107,7 @@
           "Lieu"
         ],
         "autoPlayFromHand": {},
-        "autoPlayFromStack": {},
+        "autoPlayFromStack": {"Groupe": "Lieu"},
         "sectionsDict": {
           "Hand": {
             "isDefaultSection": true,
