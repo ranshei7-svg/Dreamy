@@ -251,7 +251,7 @@
           },
           "Groupe": {
             "title": "Groupe",
-            "isHidden": "opponent-only",
+            "isHidden": "yes",
             "height": "MEDIUM",
             "alignment": "START",
             "opponentAlignment": false,
