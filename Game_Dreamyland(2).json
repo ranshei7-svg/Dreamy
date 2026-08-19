@@ -33,7 +33,7 @@
         "startingHandSize": 7,
         "drawNewHand": false,
         "putSelectionAtBottom": true,
-        "drawNewSelectedCards": false
+        "drawNewSelectedCards": true
       },
       "newTurn": {
         "drawOnStart": false,
@@ -42,7 +42,9 @@
         "drawPerTurn": 0
       },
       "defaultNotes": "",
-      "tokens": [],
+      "tokens": [
+        "Venin"
+      ],
       "countersStartingValues": [
         0
       ],
