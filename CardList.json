@@ -1622,7 +1622,7 @@
       "front": {
         "name": "",
         "type": "Groupe",
-        "cost": "0",
+        "cost": 0,
         "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_001.jpg?raw=true",
         "isHorizontal": false
       }
@@ -1638,7 +1638,7 @@
       "front": {
         "name": "",
         "type": "Groupe",
-        "cost": "0",
+        "cost": 0,
         "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_002.jpg?raw=true",
         "isHorizontal": false
       }
@@ -1983,14 +1983,14 @@
     "type": "Groupe",
     "cost": 0
   },
-  "0080": {
-    "id": "009",
+  "008": {
+    "id": "008",
     "isToken": false,
     "face": {
       "front": {
         "name": "",
         "type": "Groupe",
-        "cost": "5",
+        "cost": 0,
         "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/FDS1_008.jpg?raw=true",
         "isHorizontal": false
       }
