@@ -106,10 +106,7 @@
           "Groupe",
           "Lieu"
         ],
-        "autoPlayFromHand": {
-          "Kick": "Combattant",
-          "Soutien": "Soutien"
-        },
+        "autoPlayFromHand": {},
         "autoPlayFromStack": {},
         "sectionsDict": {
           "Hand": {
