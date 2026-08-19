@@ -10,7 +10,7 @@
   "customHelp": "Go",
   "cardRotation": "45",
   "cards": {
-    "dataUrl": "https://raw.githubusercontent.com/ranshei7-svg/Dreamy/refs/heads/main/CardList.json",
+    "dataUrl": "https://raw.githubusercontent.com/ranshei7-svg/Dreamy/refs/heads/main/CardList.json?v=2",
     "cardBack": "https://github.com/ranshei7-svg/Dreamy/blob/main/back.png?raw=true"
   },
   "deckBuilding": {
