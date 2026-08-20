@@ -45,6 +45,33 @@
       "tokens": [
         "Venin"
       ],
+      "draggableTokens": [
+      {
+        "id": "Un",
+        "name": "Un",
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/COUNTERS/plaque-porte-alu-ou-pvc-picto-rond-1.jpg?raw=true"
+      },
+      {
+        "id": "Deux",
+        "name": "Deux",
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/COUNTERS/plaque-porte-alu-ou-pvc-picto-rond-2.jpg?raw=true"
+      },
+      {
+        "id": "Trois",
+        "name": "Trois",
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/COUNTERS/plaque-porte-alu-ou-pvc-picto-rond-3.jpg?raw=true"
+      },
+      {
+        "id": "Noeff",
+        "name": "Noeff",
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/COUNTERS/4225690.png?raw=true"
+      },
+      {
+        "id": "Cible",
+        "name": "Cible",
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/COUNTERS/cible.png?raw=true"
+      }
+      ],
       "countersStartingValues": [
         0
       ],
