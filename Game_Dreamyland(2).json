@@ -256,7 +256,7 @@
             "alignment": "DECK",
             "opponentAlignment": false,
             "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
+            "isHorizontalAllowed": false,
             "isGroupForbidden": true,
             "displayedTitle": "Groupe",
             "noQuickActions": false,
