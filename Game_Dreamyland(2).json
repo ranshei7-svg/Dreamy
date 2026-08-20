@@ -125,8 +125,8 @@
           "Groupe",
           "Lieu"
         ],
-        "autoPlayFromHand": {"Groupe"},
-        "autoPlayFromStack": {"Groupe"},
+        "autoPlayFromHand": {},
+        "autoPlayFromStack": {},
         "sectionsDict": {
           "Hand": {
             "isDefaultSection": true,
