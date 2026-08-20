@@ -45,6 +45,33 @@
       "tokens": [
         "Venin"
       ],
+      "draggableTokens": [
+      {
+        "id": "Un",
+        "name": "Un",
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/COUNTERS/plaque-porte-alu-ou-pvc-picto-rond-1.jpg?raw=true"
+      },
+      {
+        "id": "Deux",
+        "name": "Deux",
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/COUNTERS/plaque-porte-alu-ou-pvc-picto-rond-2.jpg?raw=true"
+      },
+      {
+        "id": "Trois",
+        "name": "Trois",
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/COUNTERS/plaque-porte-alu-ou-pvc-picto-rond-3.jpg?raw=true"
+      },
+      {
+        "id": "Noeff",
+        "name": "Noeff",
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/COUNTERS/4225690.png?raw=true"
+      },
+      {
+        "id": "Cible",
+        "name": "Cible",
+        "image": "https://github.com/ranshei7-svg/Dreamy/blob/main/COUNTERS/cible.png?raw=true"
+      }
+      ],
       "countersStartingValues": [
         0
       ],
@@ -58,6 +85,7 @@
           "Combattant",
           "Soutien1",
           "Soutien2"
+          "Kicks"
         ],
         "layout": {
           "direction": "column",
@@ -76,13 +104,19 @@
                 {
                   "section": "Arène",
                   "style": {
-                    "flex": 2.5
+                    "flex": 3
                   }
                 },
                 {
                   "section": "Combattant",
                   "style": {
-                    "flex": 2.5
+                    "flex": 1
+                  }
+                },
+                {
+                  "section": "Kicks",
+                  "style": {
+                    "flex": 3
                   }
                 },
                 {
@@ -107,7 +141,7 @@
                 {
                   "section": "Réserve",
                   "style": {
-                    "flex": 5
+                    "flex": 7
                   }
                 },
                 {
@@ -306,7 +340,23 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "isGroupForbidden": false,
-            "displayedTitle": "",
+            "displayedTitle": "Combattant",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Kicks": {
+            "title": "Kicks",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "isGroupForbidden": false,
+            "displayedTitle": "Kicks",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
